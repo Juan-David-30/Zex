@@ -1,2 +1,2 @@
 # Zex
-Zex is an general-purpose programming language.
+Zex is a general-purpose programming language.
